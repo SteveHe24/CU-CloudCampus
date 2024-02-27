@@ -4,7 +4,7 @@
 
 
   
--记得当时是21年,作为科技爱好者观看了Apple的WWDC开发者大会,其中关于地图的更新抓住了我的眼球. 
+-记得当时是21年,作为科技爱好者观看了Apple的WWDC开发者大会,其中关于地图的更新是最让我眼前一亮的. 
 
   
 ![perfect](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/1de6aacc-df4d-473f-8372-7d73cc100aa2)
