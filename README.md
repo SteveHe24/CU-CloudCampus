@@ -40,8 +40,9 @@
 
 ![No1](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/406b3711-a2f4-490c-9d37-7bfc8508eb05)
 
-![No5](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/80be6742-db81-4b5b-81dd-fdcaf115c902)![No12]
-(https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/0149adde-838b-4723-ad66-f4f519180841)
+![No5](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/80be6742-db81-4b5b-81dd-fdcaf115c902)
+
+![No12](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/0149adde-838b-4723-ad66-f4f519180841)
 
 ![No11](https://github.com/SteveHe24/CU-CloudCampus/assets/78076945/90cf6086-1a07-4743-abb5-a055986794ed)
 
